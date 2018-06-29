@@ -88,7 +88,7 @@ The hackAIR DS API is implemented in [Java EE 7](https://docs.oracle.com/javaee/
 ## Instructions
 1. Install Java EE 7 and GlassFish 4.1.1 in your computer.
 2. Clone the project locally in your computer.
-3. 
+3. ...
 
 
 ## Resources
