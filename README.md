@@ -7,8 +7,8 @@ The hackAIR Decision Support (DS) API is a dedicated software responsible for: (
 
 ## Web-Services
 Up to now, the hackAIR DS API offers the following web services through POST requests:
-* {BASE_URL}/hackAIR_project/api/dynamicPopulation: performs the dynamic population of involved data (user profile and enviromnental data) in the hackAIR KB for further manipulation.
-* {BASE_URL}/hackAIR_project/api/requestRecommendation: performs a step-by-step process, i.e. (i) receives a JSON object in pre-defined format, through a POST request to the service of discourse, (ii) converts the JSON data to a hackAIR-compatible ontology-based problem description language for populating new instances (user profile details and environmental related data) in the knowledge base; (iii) triggers the hackAIR reasoning mechanism for handling the available data and rules and for inferencing new knowledge, i.e. provide relevant recommendations to the users. 
+* _{BASE_URL}/hackAIR_project/api/dynamicPopulation_: performs the dynamic population of involved data (user profile and enviromnental data) in the hackAIR KB for further manipulation.
+* _{BASE_URL}/hackAIR_project/api/requestRecommendation_: performs a step-by-step process, i.e. (i) receives a JSON object in pre-defined format, through a POST request to the service of discourse, (ii) converts the JSON data to a hackAIR-compatible ontology-based problem description language for populating new instances (user profile details and environmental related data) in the knowledge base; (iii) triggers the hackAIR reasoning mechanism for handling the available data and rules and for inferencing new knowledge, i.e. provide relevant recommendations to the users. 
 
 
 ### Key features 
