@@ -43,6 +43,8 @@ Parameter | JSON Type | Mandatory (M) / Optional (O) | Accepted values
 ### Example JSON object
 
 #### With primary and secondary profile description, in one single request
+
+```
 {
   "username": "Helen_Hall",
   "age":"32", 
@@ -71,6 +73,7 @@ Parameter | JSON Type | Mandatory (M) / Optional (O) | Accepted values
     }
   }]
 }
+```
 
 
 ## Requirements - Dependencies
@@ -104,4 +107,6 @@ For further details, please contact Marina Riga (mriga@iti.gr)
 The hackAIR Decision Support API was created by <a href="http://mklab.iti.gr/" target="_blank">MKLab group</a> under the scope of <a href="http://www.hackair.eu/" target="_blank">hackAIR</a> EU Horizon 2020 Project.
 
 
-![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)  ![hackAIR logo](https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png =125x133)
+![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)  ![hackAIR logo](https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png)
+
+<img src="https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png" alt="hackAIR logo" width="125" height="133">
