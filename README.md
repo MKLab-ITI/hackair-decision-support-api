@@ -21,7 +21,7 @@ The hackAIR DS module supports:
 ### JSON parameters
 Below, we specify all the mandatory and optional JSON parameters that are accepted in the POST request:
 
-Parameter | JSON Type | Mandatory (M) / Optional (O) | Accepted values
+Parameter | JSON Type | Mandatory(M) / Optional(O) | Accepted values
 --- | --- | --- | ---
 `username` | object | M | any *string* value
 `gender` | object | O | One of the following: *male*, *female*, *other*
@@ -107,6 +107,4 @@ For further details, please contact Marina Riga (mriga@iti.gr)
 The hackAIR Decision Support API was created by <a href="http://mklab.iti.gr/" target="_blank">MKLab group</a> under the scope of <a href="http://www.hackair.eu/" target="_blank">hackAIR</a> EU Horizon 2020 Project.
 
 
-![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)  ![hackAIR logo](https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png)
-
-<img src="https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png" alt="hackAIR logo" width="125" height="133">
+![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)         <img src="https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png" alt="hackAIR logo" width="125" height="133">
