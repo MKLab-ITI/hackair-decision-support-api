@@ -22,7 +22,7 @@ The hackAIR DS module supports:
 Below, we specify all the mandatory and optional JSON parameters that are accepted in the POST request:
 
 Parameter | JSON Type | Mandatory(M) / Optional(O) | Accepted values
---- | --- | --- | ---
+:--- | :---: | :---: | :---
 `username` | object | M | any *string* value
 `gender` | object | O | One of the following: *male*, *female*, *other*
 `age` | object | M | any *integer* value
@@ -44,7 +44,7 @@ Parameter | JSON Type | Mandatory(M) / Optional(O) | Accepted values
 
 #### With primary and secondary profile description, in one single request
 
-```
+```json
 {
   "username": "Helen_Hall",
   "age":"32", 
