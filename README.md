@@ -104,4 +104,4 @@ For further details, please contact Marina Riga (mriga@iti.gr)
 The hackAIR Decision Support API was created by <a href="http://mklab.iti.gr/" target="_blank">MKLab group</a> under the scope of <a href="http://www.hackair.eu/" target="_blank">hackAIR</a> EU Horizon 2020 Project.
 
 
-![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)  ![hackAIR logo](http://www.hackair.eu/wp-content/uploads/2018/02/hackAIR_logo_2017_white.png)
+![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)  ![hackAIR logo](https://github.com/MKLab-ITI/hackair-decision-support-api/blob/master/images/hackAir_logo_RGB.png)
