@@ -44,7 +44,7 @@ Parameter | JSON Type | Mandatory(M) / Optional(O) | Accepted values
 
 #### With primary and secondary profile description, in one single request
 
-```json
+```JSON
 {
   "username": "Helen_Hall",
   "age":"32", 
