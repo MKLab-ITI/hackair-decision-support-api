@@ -37,7 +37,7 @@ Parameter | JSON Type | Mandatory(M) / Optional(O) | Accepted values
 `airPollutantName` | object | M | One of the following: *PM_AOD*, *PM10*, *PM2_5*, *PM_fused*
 `airPollutantValue` | object | M | any *double* value
 `preferredLanguageCode` | object | O | One of the following: *en*, *de*, *no*
-`relatedProfiles` | array | O | One or two JSON objects, each of which includes the aforementioned mandatory/optional fields.
+`relatedProfiles` | array | O | One or more JSON objects, each of which includes the aforementioned mandatory/optional fields.
 
 
 ### Example JSON object
