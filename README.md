@@ -91,6 +91,15 @@ The hackAIR DS API is implemented in [Java EE 7](https://docs.oracle.com/javaee/
 3. **Run** Glassfish server and **deploy** ```hackAIR_project.war``` application
 4. Submit POST requests in relevant web-services, as described [here](https://github.com/MKLab-ITI/hackair-decision-support-api#web-services)
 
+or
+
+1. Install Java EE 7 and a common Java IDE framework.
+2. Clone the project locally in your computer.
+3. Import the java project to the workspace of the IDE framework.
+4. Set up a Glassfish server from the IDE environment to run locally.
+5. *Run* the project through the IDE utilities.
+6. Submit POST requests in relevant web-services, as described [here](https://github.com/MKLab-ITI/hackair-decision-support-api#web-services)
+
 
 ## Resources
 The official hackAIR ontology resources are available [here](http://mklab.iti.gr/project/hackair-ontologies).
