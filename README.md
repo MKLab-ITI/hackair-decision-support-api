@@ -32,7 +32,7 @@ Parameter | JSON Type | Mandatory(M) / Optional(O) | Accepted values
 `isSensitiveTo` | array | O | One or more of the following: *Asthma*, *Allergy*, *Cardiovascular*, *GeneralHealthProblem*
 `isOutdoorJobUser` | object | O | any *boolean* value
 `preferredActivities` | object | O | `preferredOutdoorActivities`
-`preferredOutdoorActivities` | array | O | One or more of the following: *picnic*, *running*, *walking*, *outdoor job*, *biking*, *playingInPark*, *tennis*, *generalActivity*
+`preferredOutdoorActivities` | array | O | One or more of the following: *picnic*, *running*, *walking*, *outdoor job*, *biking*, *playing in park*, *general activity*
 `airPollutant` | object | M | Both: `airPollutantName`, `airPollutantValue`
 `airPollutantName` | object | M | One of the following: *PM_AOD*, *PM10*, *PM2_5*, *PM_fused*
 `airPollutantValue` | object | M | any *double* value
