@@ -2,7 +2,7 @@
 
 
 ## Description
-The hackAIR Decision Support (DS) API is a dedicated software responsible for: (i) the representation of a problem (request) for decision support in a formal, comprehensible and hackAIR-ontology-compatible way; (ii) the communication between the <a href="https://platform.hackair.eu/" target="_blank">hackAIR UI (app/platform)</a>, or even other third-party DS systems, and the <a href="http://mklab.iti.gr/project/hackair-ontologies" target="_blank">ontology-based representation and reasoning knowledge base (KB)</a>, which supports the recommendation mechanism. The involved web-services were created with the adoption of state-of-the-art technologies: RESTful communication, exchange of information on the basis of JSON objects, etc. The hackAIR DS API is publicly available and may run both as an independent service or as an integrated service on the hackAIR app/platform. 
+The hackAIR Decision Support (DS) API is a dedicated software responsible for: (i) the representation of a problem (request) for decision support in a formal, comprehensible and hackAIR-ontology-compatible way; (ii) the communication between the <a href="https://platform.hackair.eu/" target="_blank">hackAIR UI (app/platform)</a>, or even other third-party DS systems, and the <a href="https://mklab.iti.gr/results/hackair-ontologies/" target="_blank">ontology-based representation and reasoning knowledge base (KB)</a>, which supports the recommendation mechanism. The involved web-services were created with the adoption of state-of-the-art technologies: RESTful communication, exchange of information on the basis of JSON objects, etc. The hackAIR DS API is publicly available and may run both as an independent service or as an integrated service on the hackAIR app/platform. 
 
 
 ## Web-Services
@@ -82,7 +82,7 @@ The hackAIR DS API is implemented in [Java EE 7](https://docs.oracle.com/javaee/
 * [SPIN API](http://topbraid.org/spin/api/): an open source Java API to enable the adoption of SPIN rules and the handling of the implemented rule-based reasoning mechanism. 
 * [GlassFish Server 4.1.1](http://www.oracle.com/technetwork/middleware/glassfish/overview/index.html): an open-source application server for the Java EE platform, utilised for handling HTTP queries to the RESTful API.
 * [json-simple](https://github.com/fangyidong/json-simple): a well-known java toolkit for parsing (encoding/decoding) JSON text.
-* [hackAIR Knowledge Base (KB) and Reasoning Framework](http://mklab.iti.gr/project/hackair-ontologies): this regards the implemented ontological representation of the domain of discourse that handles both the semantic integration and reasoning of environmental and user-specific data, in order to provide recommendations to the hackAIR users, with respect to: (i) personal health and user preferences (activities, daily routine, etc.), and (ii) current AQ conditions of the location of interest. The hackAIR DS module utilises the sources of the hackAIR KB and reasoning framework as a background resource of information, from which it acquires the necessary semantic relations and information in order to support relevant recommendations’ provision to the users upon request for decision support. 
+* [hackAIR Knowledge Base (KB) and Reasoning Framework](https://mklab.iti.gr/results/hackair-ontologies/): this regards the implemented ontological representation of the domain of discourse that handles both the semantic integration and reasoning of environmental and user-specific data, in order to provide recommendations to the hackAIR users, with respect to: (i) personal health and user preferences (activities, daily routine, etc.), and (ii) current AQ conditions of the location of interest. The hackAIR DS module utilises the sources of the hackAIR KB and reasoning framework as a background resource of information, from which it acquires the necessary semantic relations and information in order to support relevant recommendations’ provision to the users upon request for decision support. 
 
 
 ## Instructions
@@ -102,7 +102,7 @@ or
 
 
 ## Resources
-The official hackAIR ontology resources are available [here](http://mklab.iti.gr/project/hackair-ontologies).
+The official hackAIR ontology resources are available [here](https://mklab.iti.gr/results/hackair-ontologies/).
 
 
 ## Citation
